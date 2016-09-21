@@ -6,3 +6,8 @@ body {
   font-size: 13px;
   line-height: 20px;
 }
+
+.container-fluid {
+  width: 100%;
+  top-margin: 0;
+}
